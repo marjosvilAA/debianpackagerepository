@@ -1,0 +1,5 @@
+Origin: Hermes
+Label: GlobaLeaks Debian Bookworkm Repository
+Suite: bookworm
+Codename: bookworm
+Architectures: all amd64
